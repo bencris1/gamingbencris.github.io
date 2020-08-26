@@ -8,9 +8,8 @@ html {
 }
 
 body{
-	 background-image : url("images.png");
-	background-size: cover;
-    background-repeat: no-repeat;
+   background-color: #4D32B2
+}
 }
 .nav-bar{
 	background: black;
